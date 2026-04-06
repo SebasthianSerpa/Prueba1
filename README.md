@@ -7,7 +7,7 @@ Esta evaluación consiste en la creación de dos máquinas virtuales:
 Windows Server 2019 con GUI
 Linux (Rocky Linux) en modo CLI
 
-*Configuración*
+Configuración
 
 RAM: 8 GB
 Disco: 30 GB
