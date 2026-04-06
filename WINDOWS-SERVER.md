@@ -17,3 +17,5 @@ Pendiente...
 <img width="1022" height="832" alt="image" src="https://github.com/user-attachments/assets/2863fb95-3fe5-4316-90c8-4a4a25a4c7a1" />
 
 <img width="1019" height="806" alt="image" src="https://github.com/user-attachments/assets/8c7838d9-a995-4e21-a83e-806d2561ef8b" />
+
+<img width="1032" height="831" alt="image" src="https://github.com/user-attachments/assets/4be29583-006e-4216-b171-66f5959eae68" />
