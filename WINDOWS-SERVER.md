@@ -19,3 +19,6 @@ Pendiente...
 <img width="1019" height="806" alt="image" src="https://github.com/user-attachments/assets/8c7838d9-a995-4e21-a83e-806d2561ef8b" />
 
 <img width="1032" height="831" alt="image" src="https://github.com/user-attachments/assets/4be29583-006e-4216-b171-66f5959eae68" />
+
+(Usando conexion remota desde el PC a la Maquina virtual
+<img width="1876" height="857" alt="image" src="https://github.com/user-attachments/assets/40ca482b-da5b-400c-a82b-1a8f81e6785b" />
